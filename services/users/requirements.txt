@@ -11,7 +11,7 @@ flask-testing==0.7.1
 flask==1.1.1
 gunicorn==19.9.0
 itsdangerous==1.1.0
-jinja2==2.10.3
+jinja2==2.11.3
 markupsafe==1.1.1
 mccabe==0.6.1
 psycopg2==2.8.3
